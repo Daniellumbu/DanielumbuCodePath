@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a walkthrough of the Color Changer App:  
 
-[Video Walkthrough] http://i.imgur.com/link/to/your/gif/file.gif
+[Video Walkthrough] [http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/MBoBZWS)
 
 GIF created with Kap
 
